@@ -1,5 +1,5 @@
 FROM golang:latest
-LABEL authors="kirylputseyeu"
+LABEL authors="kirysha"
 
 EXPOSE 9000
 
